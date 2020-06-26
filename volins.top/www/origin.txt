@@ -1,0 +1,1632 @@
+Uri: http://www.barracu-da.ru/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/favicon.ico
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497670
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497670
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/news
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/159/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\159\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/160/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\160\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/about
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\about.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/principles
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\principles.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/services
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\services.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/clients
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\clients.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio.html
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/contacts
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\contacts.html
+Content Type: text/html
+
+Uri: http://barracu-da.ru/agreement.pdf
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\agreement.pdf
+Content Type: application/pdf
+
+Uri: http://www.barracu-da.ru/media/js/jquery-1.10.2.min.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/jquery.history.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\jquery.history.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/jquery.jcarousel.min.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\jquery.jcarousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/TweenMax.min.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/jquery.jscrollpane.min.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\jquery.jscrollpane.min.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/jquery.mousewheel.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\jquery.mousewheel.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/infobox.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\infobox.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/share.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\share.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/js/main.js
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud4.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud4.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud5.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud5.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cloud5_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cloud5_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/logo.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\logo.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/bg.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/bg_grad.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\bg_grad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/preloader.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\preloader.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/baracudalogo.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\baracudalogo.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/menu_main.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\menu_main.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/light.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\light.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_grass1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_grass1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_grass2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_grass2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_apple1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_apple1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_apple2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_apple2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_apple3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_apple3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/fence.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\fence.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/birds_grass1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\birds_grass1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/birds_grass2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\birds_grass2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/birds_grass3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\birds_grass3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/birds_bird1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\birds_bird1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/birds_bird2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\birds_bird2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/news.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\news.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/way.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\way.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/way_grass.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\way_grass.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/way_bird.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\way_bird.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/man_sprite.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\man_sprite.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cat.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cat.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cat_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cat_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/cat_meow.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\cat_meow.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/tooltip.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\tooltip.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/tooltip_sprite.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\tooltip_sprite.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/house.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\house.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/broken_w.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\broken_w.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene1/trees_front.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene1\trees_front.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/door.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\door.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/kitty.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\kitty.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/kitty_drag.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\kitty_drag.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/picture.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\picture.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/table.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\table.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/chair.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\chair.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/chair_consumer.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\chair_consumer.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp_floor.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp_floor.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/carpet.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\carpet.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/mustache.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\mustache.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/tooltip.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\tooltip.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/tooltip_ico.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\tooltip_ico.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/switch.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\switch.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/switch_red.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\switch_red.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/switch_act.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\switch_act.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/creator.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\creator.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/horns.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\horns.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/pipe.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\pipe.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/screen.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\screen.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/screen_hat.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\screen_hat.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/screen_leg1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\screen_leg1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/screen_leg2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\screen_leg2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/pictures.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\pictures.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/spruce.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\spruce.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/spruce_bang.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\spruce_bang.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/bubble.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\bubble.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/icons.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\icons.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/bird.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\bird.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/creator_table.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\creator_table.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/creator_table_aha.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\creator_table_aha.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/bang.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\bang.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/dynamite.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\dynamite.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/cord.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\cord.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/cord_button.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\cord_button.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/spark.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\spark.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/cannon.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\cannon.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/cloud1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\cloud1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/cloud2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\cloud2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/bird_shadow.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\bird_shadow.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/bird_cloud.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\bird_cloud.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/bird.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\bird.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/bird_wing.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\bird_wing.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/bird_bubble.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\bird_bubble.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/note.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\note.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consumer_shadow.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consumer_shadow.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consumer_cloud.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consumer_cloud.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consumer.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consumer.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consumer_face.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consumer_face.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consuner_moustache.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consuner_moustache.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/consumer_bubble.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\consumer_bubble.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/excl.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\excl.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/house_back.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\house_back.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/flag.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\flag.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/scene_balloons.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\scene_balloons.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/scene_notes.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\scene_notes.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/bycicle.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\bycicle.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/grass.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\grass.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/car_sound.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\car_sound.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/icecream.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\icecream.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/trees_front.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\trees_front.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/bird.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\bird.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/gallery_arrs.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\gallery_arrs.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/bg.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\bg.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/bg_blur.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\bg_blur.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/deal.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\deal.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/social.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\social.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/map_bg.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\map_bg.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/error/text.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\error\text.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/error/ghost_shadow.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\error\ghost_shadow.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/error/ghost.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\error\ghost.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/footer.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\footer.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/footer-top.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\footer-top.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/tooltip_arrow.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\tooltip_arrow.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/footer_sprite.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\footer_sprite.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/footer_share.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\footer_share.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/arrs.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\arrs.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/close.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\close.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/news_arr.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\news_arr.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/like.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\like.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497671
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-1.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497671
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-1.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/news/158/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\158\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/157/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\157\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/156/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\156\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/155/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\155\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/154/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\154\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/153/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\153\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/152/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\152\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/news/151/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\news\151\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/media/img/popup/news_1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\popup\news_1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497672
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-2.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497672
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-2.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/news/ru/photo_160_75.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\news\ru\photo_160_75.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/popup/about_1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\popup\about_1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp4.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp4.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene2/lamp5.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene2\lamp5.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497673
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-3.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497673
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-3.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/img/scene3/lamp1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\lamp1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/lamp2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\lamp2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/lamp3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\lamp3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene3/origami.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene3\origami.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_rg_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_rg_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_sams_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_sams_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_sber_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_sber_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_siemens_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_siemens_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_5_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_5_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_afimol_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_afimol_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_ahmad_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_ahmad_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_bl_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_bl_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_burger_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_burger_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_canon_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_canon_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_danone_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_danone_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_teekanne_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_teekanne_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_dosh_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_dosh_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_globeks_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_globeks_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_hua_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_hua_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_inter_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_inter_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_inventive_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_inventive_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_knauf_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_knauf_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_lafarge_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_lafarge_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_match_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_match_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_mega_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_mega_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_orange_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_orange_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_perrier_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_perrier_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_pivo_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_pivo_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/img/scene4/logos/new/logo_strauss_new.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene4\logos\new\logo_strauss_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_37.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_37.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_36.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_36.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_38.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_38.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_34.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_34.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_33.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_33.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_32.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_32.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_31.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_31.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_35.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_30.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_30.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_29.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_28.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_28.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_27.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_27.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_25.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_25.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_24.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_24.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_13.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_14.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_15.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_15.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_16.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_17.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_17.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_18.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_18.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_19.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_19.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_20.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_21.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_21.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_22.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_22.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_23.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_23.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/illustration_26.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\illustration_26.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/portfolio/vesennieprisnaniya/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\vesennieprisnaniya\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/zayciprotivsnejinok/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\zayciprotivsnejinok\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/aquathermmoscow/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\aquathermmoscow\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/novogodnyaya-skazzka-bilayn/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\novogodnyaya-skazzka-bilayn\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/svoysubbotnik/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\svoysubbotnik\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/teekanne/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\teekanne\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/dns-huawei/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\dns-huawei\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/internet-kotoryiy-letaet/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\internet-kotoryiy-letaet\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/samsung/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\samsung\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/doshirak/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\doshirak\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/old/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\old\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/lte/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\lte\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/sonycentre/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\sonycentre\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/alfa-bank/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\alfa-bank\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/storck/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\storck\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/coca-cola/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\coca-cola\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/mpk/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\mpk\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/inventive/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\inventive\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/polaris/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\polaris\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/orange-business-services/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\orange-business-services\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/natur-produkt/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\natur-produkt\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/monster/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\monster\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/finn-flare/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\finn-flare\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/bongrain-evropa-vostok/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\bongrain-evropa-vostok\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/beeline/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\beeline\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/portfolio/skb-kontur/
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\portfolio\skb-kontur\index.htm
+Content Type: text/html
+
+Uri: http://www.barracu-da.ru/media/img/scene5/cloud1.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\cloud1.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/cloud2.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\cloud2.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/cloud3.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\cloud3.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/cloud4.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\cloud4.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/sun.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\sun.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/house.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\house.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/house_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\house_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/scene.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\scene.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/scene_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\scene_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/trees_left.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\trees_left.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/trees_left_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\trees_left_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/tree_middle.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\tree_middle.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/tree_middle_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\tree_middle_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/tree_right.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\tree_right.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/tree_right_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\tree_right_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/car.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\car.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/car_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\car_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/boy.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\boy.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/boy_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\boy_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/girl.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\girl.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/girl_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\girl_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/guys.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\guys.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene5/guys_active.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene5\guys_active.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/pdf/Presentation_BARRACUDA.pdf
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\pdf\Presentation_BARRACUDA.pdf
+Content Type: application/pdf
+
+Uri: http://www.barracu-da.ru/media/img/scene6/address.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\address.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/mail.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\mail.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/poster.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\poster.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/img/scene6/note.png
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\img\scene6\note.png
+Content Type: image/png
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497701
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-4.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497701
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-4.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497702
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-5.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497702
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-5.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497703
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-6.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497703
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-6.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497716
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-7.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497716
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-7.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_37_153.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_37_153.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_37_155.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_37_155.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_37_157.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_37_157.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_37_158.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_37_158.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_37_159.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_37_159.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_160.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_160.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_161.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_161.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_162.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_162.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_163.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_163.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_164.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_164.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_36_165.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_36_165.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497717
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-8.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497717
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-8.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_140.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_140.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_141.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_141.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_142.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_142.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_143.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_143.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_144.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_144.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_145.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_145.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_146.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_146.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_147.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_147.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_34_148.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_34_148.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_127.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_127.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_138.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_138.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_130.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_130.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_131.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_131.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_132.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_132.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_133.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_133.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_139.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_139.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_135.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_135.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_136.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_136.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_33_137.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_33_137.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_32_121.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_32_121.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_32_122.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_32_122.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_32_126.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_32_126.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_32_124.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_32_124.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_32_125.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_32_125.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497718
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-9.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497718
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-9.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_31_119.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_31_119.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_31_120.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_31_120.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_35_149.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_35_149.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_35_150.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_35_150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_35_151.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_35_151.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_35_152.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_35_152.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_103.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_103.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_113.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_113.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_105.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_105.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_106.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_106.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_107.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_107.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_108.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_108.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_112.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_112.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_30_111.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_30_111.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497719
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-10.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497719
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-10.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_29_102.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_29_102.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_29_101.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_29_101.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_29_100.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_29_100.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_28_91.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_28_91.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_28_92.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_28_92.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_81.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_81.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_82.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_82.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_83.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_83.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_84.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_84.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_85.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_85.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_86.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_86.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_27_87.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_27_87.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_25_77.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_25_77.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_25_78.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_25_78.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_25_79.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_25_79.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_25_80.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_25_80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497720
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-11.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497720
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-11.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_71.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_71.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_72.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_72.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_73.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_73.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_74.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_74.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_75.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_75.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_24_76.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_24_76.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_27.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_27.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_33.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_33.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_25.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_25.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_28.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_28.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_29.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_30.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_30.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_31.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_31.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_13_32.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_13_32.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_14_23.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_14_23.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_14_24.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_14_24.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497721
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-12.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497721
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-12.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_15_34.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_15_34.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_15_35.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_15_35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_16_36.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_16_36.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_16_37.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_16_37.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_16_38.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_16_38.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_16_39.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_16_39.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_16_40.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_16_40.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_17_63.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_17_63.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_17_64.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_17_64.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_17_65.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_17_65.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_17_66.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_17_66.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_17_67.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_17_67.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_18_58.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_18_58.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_18_59.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_18_59.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_18_60.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_18_60.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_18_61.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_18_61.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_18_62.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_18_62.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497722
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-13.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497722
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-13.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_19_53.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_19_53.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_19_54.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_19_54.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_19_55.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_19_55.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_19_57.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_19_57.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_20_51.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_20_51.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_20_52.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_20_52.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_21_68.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_21_68.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_21_49.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_21_49.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_21_69.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_21_69.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_21_47.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_21_47.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_21_46.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_21_46.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/media/css/main.css?v=1550497723
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\css\main-14.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/media/forms/styles.css?v=1550497723
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\media\forms\styles-14.css
+Content Type: text/css
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_22_45.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_22_45.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_22_44.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_22_44.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_22_43.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_22_43.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_22_41.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_22_41.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_22_42.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_22_42.jpg
+Content Type: image/jpeg
+
+Uri: http://www.barracu-da.ru/upload/portfolio/ru/gallery_23_70.jpg
+File Name: c:\Downloaded Web Sites\www.barracu-da.ru\upload\portfolio\ru\gallery_23_70.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,282 @@
+.rightbutton {
+	background: url("img/arrows-act.png") no-repeat;
+	width: 31px;
+	height: 47px;
+	cursor:pointer;
+	background-position: -60px 0px;
+	position: absolute;
+	right: 40px;
+	top: 278px;
+	z-index: 10;
+}
+.leftbutton {
+	background: url("img/arrows-act.png") no-repeat;
+	width: 31px;
+	height: 47px;
+	cursor:pointer;
+	position: absolute;
+	left: 40px;
+	top: 278px;
+	z-index: 10;
+}
+.rightbutton:hover {
+	background: url("img/arrows.png") no-repeat;
+	background-position: -60px 0px;
+}
+.leftbutton:hover {
+	background: url("img/arrows.png") no-repeat;
+}
+.sliderimg {
+    width: 100%;
+    height: 100%;
+}
+.slider{
+position: relative;
+width: 100%;
+height: 414px;
+overflow: hidden;
+margin-top: -5px;
+    margin: 0 auto;
+	    max-width: 1616px;
+}
+.slider a {
+	/*    width: 456px;
+    position: absolute;
+    left: 50%;
+    top: 220px;
+    z-index: 17;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FFF;
+    font-size: 54px;
+    padding-left: 27px;
+    line-height: 1.5;
+    margin-left: -490px;*/
+}
+.slider p{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto';
+	font-size: 28px;
+	text-align: left;
+	font-weight: normal;
+	position: absolute;
+	top: 172px;
+	left: 50%;
+	margin-left: -490px;
+	width: 456px;
+	}
+.slider p button {
+width: 410px;
+background-color: #210e8c;
+text-align: center;
+border: none;
+margin-top: 30px;
+height: 70px;
+cursor: pointer;
+}
+.slider p button span {
+color: #FFFFFF;
+text-transform: uppercase;
+font-family: 'Roboto';
+font-size: 20px;
+}
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	    width: 100%;
+    height: 100%;
+}
+		
+			@-webkit-keyframes fadeInLeft {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(100%, 0, 0);
+				transform: translate3d(100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				transform: none;
+			  }
+			}
+
+			@keyframes fadeInLeft {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(100%, 0, 0);/*начало*/
+				-ms-transform: translate3d(100%, 0, 0);
+				transform: translate3d(100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				-ms-transform: none;
+				transform: none;
+			  }
+			}
+
+			.fadeInLeft {
+			  -webkit-animation-name: fadeInLeft;
+			  animation-name: fadeInLeft;
+			  left: -100% !important;/*конец*/
+			position: absolute;
+			float:left;
+			}
+			
+			
+			@-webkit-keyframes fadeBigInLeft {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(100%, 0, 0);
+				transform: translate3d(100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				transform: none;
+			  }
+			}
+
+			@keyframes fadeBigInLeft {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(100%, 0, 0);
+				-ms-transform: translate3d(100%, 0, 0);
+				transform: translate3d(100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				-ms-transform: none;
+				transform: none;
+			  }
+			}
+
+			.fadeBigInLeft {
+			  -webkit-animation-name: fadeBigInLeft;
+			  animation-name: fadeBigInLeft;
+			  left: 0px !important;
+			  position: absolute;
+			  float:left;
+			}
+		
+		@-webkit-keyframes fadeInRight {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(-100%, 0, 0);
+				transform: translate3d(-100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				transform: none;
+			  }
+			}
+
+			@keyframes fadeInRight {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(-100%, 0, 0);/*начало*/
+				-ms-transform: translate3d(-100%, 0, 0);
+				transform: translate3d(-100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				-ms-transform: none;
+				transform: none;
+			  }
+			}
+
+			.fadeInRight {
+			  -webkit-animation-name: fadeInRight;
+			  animation-name: fadeInRight;
+			  left: 100% !important;/*конец*/
+				background: none !important;
+				position: absolute;
+				float:left;
+			}
+			
+			
+			@-webkit-keyframes fadeBigInRight {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(-100%, 0, 0);
+				transform: translate3d(-100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				transform: none;
+			  }
+			}
+
+			@keyframes fadeBigInRight {
+			  0% {
+				opacity: 1;
+				-webkit-transform: translate3d(-100%, 0, 0);
+				-ms-transform: translate3d(-100%, 0, 0);
+				transform: translate3d(-100%, 0, 0);
+			  }
+
+			  100% {
+				opacity: 1;
+				-webkit-transform: none;
+				-ms-transform: none;
+				transform: none;
+			  }
+			}
+
+			.fadeBigInRight {
+			  -webkit-animation-name: fadeBigInRight;
+			  animation-name: fadeBigInRight;
+			  left: 0 !important;
+			  position: absolute;
+			  float:left;
+			}
+			div.small{
+				position:absolute;
+				bottom:100px;
+				z-index:1000;
+				}
+			div.small img{
+				width:100px;				
+				}
+			.project-gallery .main-pic-slider{
+				position:relative;
+				width:100%;
+				height:410px;
+				overflow:hidden;
+				border-radius:20px;
+				z-index:10;
+				}
+			.project-gallery  .main-pic-slider div, .project-gallery  .main-pic-slider div  img{
+				max-width:100% !important;
+				max-height:410px !important;
+				/*max-width:300px;
+				max-height:150px;*/
+				}	
+			div.imagepanel{
+				position: absolute;
+				/*left: 50%;
+				margin-left: -226px;*/
+				height:100%;
+				}
+			div.hiddenfromhelldiv{
+				position:relative;
+				width:100%;
+				height:410px;
+				overflow:hidden;
+				border-radius:20px;
+				z-index:10;
+				}

@@ -1,0 +1,46 @@
+
+
+/* Start:/bitrix/templates/hr-site/components//bitrix/system.pagenavigation/modern/style.css?1525446385744*/
+div.modern-page-navigation { 
+	padding: 0.5em 0;}
+div.modern-page-navigation a, 
+span.modern-page-current, 
+span.modern-page-dots
+{
+	border-left-width: 1px;
+	border-left-style: solid;
+	padding-left: 0.75em;
+	padding-right: 0.5em;
+	text-decoration: none;
+}
+div.modern-page-navigation a.modern-page-previous { 
+	border-right-width: 1px; 
+	border-right-style: solid; 
+	border-left: none; }
+div.modern-page-navigation a.modern-page-first, 
+div.modern-page-navigation span.modern-page-first { 
+	border-left: none; 
+	padding-left: 0.5em; }
+span.modern-page-current { 
+	font-weight: bold; }
+div.modern-page-navigation a, 
+span.modern-page-current, 
+div.modern-page-navigation a.modern-page-previous, 
+span.modern-page-dots { 
+	border-color: #cdcdcd; }
+/* End */
+
+
+/* Start:/bitrix/templates/hr-site/components/bitrix/news.list/b-feedback-list-page/style.css?1525446385108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/templates/hr-site/components//bitrix/system.pagenavigation/modern/style.css?1525446385744 */
+/* /bitrix/templates/hr-site/components/bitrix/news.list/b-feedback-list-page/style.css?1525446385108 */

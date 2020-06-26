@@ -1,0 +1,16 @@
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+.figure-2{
+	border: 1px solid #dfdfdf;
+}
+.figure-2 figcaption{
+	border:none !important;
+	border-top: 1px solid #dfdfdf !important;
+	background:#fff;
+}

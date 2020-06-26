@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=<?php echo SITE_CODING?>">
+	<meta charset="<?php echo SITE_CODING?>">
+	<title><?php Core_Page::instance()->showTitle()?></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="<?php Core_Page::instance()->showDescription()?>">
+	<meta name="keywords" content="<?php Core_Page::instance()->showKeywords()?>">
+	<meta name="author" content="HostCMS">
+
+	<link type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,700,300,400italic,700italic&subset=latin,cyrillic-ext" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<?php
+	Core_Page::instance()
+		->prependCss('/bootstrap/css/bootstrap.min.css')
+		->css('/bootstrap/css/font-awesome.min.css')
+		->css('/hostcmsfiles/jquery/photobox/photobox.css')
+		->css('/hostcmsfiles/jquery/slider/jquery-ui.css')
+		->css('/hostcmsfiles/slippry/dist/slippry.css')
+		->css('/hostcmsfiles/jquery/owl-carousel/owl.carousel.css')
+		->css('/hostcmsfiles/jquery/select2/select2.min.css')
+		->css('/hostcmsfiles/jquery/magnific-popup/magnific-popup.css')
+		//Slick
+		->css('/hostcmsfiles/jquery/slick/slick.css')
+		->css('/hostcmsfiles/jquery/slick/slick-theme.css')
+		->showCss();
+	?>
+
+	<?php Core_Browser::check()?>
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/news/rss/">
+
+	<?php
+	Core_Page::instance()
+		// jQuery
+		->prependJs('/hostcmsfiles/jquery/jquery.min.js')
+		->js('/hostcmsfiles/jquery/slider/jquery-ui.js')
+		// Validate
+		->js('/hostcmsfiles/jquery/jquery.validate.min.js')
+		// LightBox
+		->js('/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js')
+		//ElevateZoom
+		->js('/hostcmsfiles/jquery/jquery.elevatezoom-3.0.8.min.js')
+		// HostCMS
+		//->js('/templates/template1/hostcms.js')
+		//->js('/templates/template1/hostcms_adaptive.js')
+		->js('/hostcmsfiles/main.js')
+		// BBcode
+		->js('/hostcmsfiles/jquery/bbedit/jquery.bbedit.js')
+		// Stars
+		->js('/hostcmsfiles/jquery/stars/jquery.ui.core.min.js')
+		->js('/hostcmsfiles/jquery/stars/jquery.ui.stars.js')
+		// jQuery.Autocomplete
+		->js('/hostcmsfiles/jquery/jquery.autocomplete.min.js')
+		//photobox
+		->js('/hostcmsfiles/jquery/photobox/jquery.photobox.js')
+		->js('/bootstrap/js/bootstrap.min.js')
+		->js('/hostcmsfiles/slippry/dist/slippry.min.js')
+		->js('/hostcmsfiles/jquery/owl-carousel/owl.carousel.min.js')
+		->js('/hostcmsfiles/jquery/select2/select2.min.js')
+		->js('/hostcmsfiles/jquery/magnific-popup/jquery.magnific-popup.min.js')
+		//Slick
+		->js('/hostcmsfiles/jquery/slick/slick.min.js')
+		->js('/hostcmsfiles/jquery/match-height/jquery.matchHeight-min.js')
+		->showJs();
+	?>
+
+	<?php
+	// Open Graph
+	if (is_object(Core_Page::instance()->object))
+	{
+		$bInformationItem = Core_Page::instance()->object instanceof Informationsystem_Controller_Show;
+		$bShopItem = Core_Page::instance()->object instanceof Shop_Controller_Show;
+		if ($bInformationItem || $bShopItem)
+		{
+			if (Core_Page::instance()->object->item)
+			{
+				$aOpenGraph = array();
+
+				$oEntity = $bInformationItem
+					? Core_Entity::factory('Informationsystem_Item', Core_Page::instance()->object->item)
+					: Core_Entity::factory('Shop_Item', Core_Page::instance()->object->item);
+
+				$type = $bInformationItem
+					? 'article'
+					: 'website';
+
+				$aOpenGraph['og:type'] = $type;
+				$aOpenGraph['og:title'] = $oEntity->name;
+				$aOpenGraph['og:description'] = strip_tags(Core_Str::cutSentences($oEntity->description));
+
+				if ($oEntity->image_large != '')
+				{
+					$oSite = Core_Entity::factory('Site', CURRENT_SITE);
+					$oSite_Alias = $oSite->getCurrentAlias();
+
+					if ($oSite_Alias)
+					{
+						$sSiteURL = $oSite_Alias->name;
+
+						$protocol = Core_Page::instance()->structure->https
+							? 'https://'
+							: 'http://';
+
+						$aOpenGraph['og:image'] = $protocol . $sSiteURL . $oEntity->getLargeFileHref();
+					}
+				}
+
+				foreach ($aOpenGraph as $sProperty => $sContent)
+				{
+					?><meta property="<?php echo htmlspecialchars($sProperty)?>" content="<?php echo htmlspecialchars($sContent)?>" /><?php
+					echo PHP_EOL;
+				}
+			}
+		}
+	}
+	?>
+</head>
+<body class="pageBody">
+	<div class="container">
+	<!-- Header starts -->
+		<header>
+			<div class="row">
+				<?php
+					// Секция шапки
+					$this->showSection('header');
+				?>
+			</div>
+		</header>
+
+		<?php
+			Core_Page::instance()->execute();
+		?>
+	</div>
+
+	<div class="footer-container">
+		<div class="container">
+			<div class="row">
+				<?php
+					// Секция подвала
+					$this->showSection('footer');
+				?>
+			</div>
+		</div>
+	</div>
+	<a class="top_button" href="" title="Back To Top" style="display: block;">TOP</a>
+</body>
+</html>

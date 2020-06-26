@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<section>
+		<caption lng="en">Main</caption>
+		<caption lng="ru">Основные</caption>
+		<option name="font-family">
+			<caption lng="en">Font Family</caption>
+			<caption lng="ru">Шрифт</caption>
+		</option>
+		<option name="font-size">
+			<caption lng="en">Font Size</caption>
+			<caption lng="ru">Размер шрифта</caption>
+		</option>
+		<option name="color" type="color">
+			<caption lng="en">Font Color</caption>
+			<caption lng="ru">Цвет шрифта</caption>
+		</option>
+		<option name="line-height">
+			<caption lng="en">Line Height</caption>
+			<caption lng="ru">Межстрочный интервал</caption>
+		</option>
+		<option name="background-color" type="color">
+			<caption lng="en">Background Color</caption>
+			<caption lng="ru">Цвет фона</caption>
+		</option>
+		<option name="primary-color" type="color">
+			<caption lng="en">Primary Color</caption>
+			<caption lng="ru">Первый цвет</caption>
+		</option>
+		<option name="secondary-color" type="color">
+			<caption lng="en">Secondary Color</caption>
+			<caption lng="ru">Второй цвет</caption>
+		</option>
+		<option name="third-color" type="color">
+			<caption lng="en">Third Color</caption>
+			<caption lng="ru">Третий цвет</caption>
+		</option>
+		<option name="fourth-color" type="color">
+			<caption lng="en">Fourth Color</caption>
+			<caption lng="ru">Четвертый цвет</caption>
+		</option>
+		<option name="fifth-color" type="color">
+			<caption lng="en">Fifth Color</caption>
+			<caption lng="ru">Пятый цвет</caption>
+		</option>
+		<option name="primary-color-link" type="color">
+			<caption lng="en">Color Link</caption>
+			<caption lng="ru">Цвет ссылок</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Menu</caption>
+		<caption lng="ru">Меню</caption>
+		<option name="background-menu" type="color">
+			<caption lng="en">Menu Background</caption>
+			<caption lng="ru">Фон меню</caption>
+		</option>
+		<option name="color-menu" type="color">
+			<caption lng="en">Menu Color</caption>
+			<caption lng="ru">Цвет текста меню</caption>
+		</option>
+		<option name="background-hover-menu" type="color">
+			<caption lng="en">Hover Background</caption>
+			<caption lng="ru">Фон при наведении</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Quick Panel</caption>
+		<caption lng="ru">Панель быстрого доступа</caption>
+		<option name="quick-access-font-size">
+			<caption lng="en">Panel Color Line</caption>
+			<caption lng="ru">Размер шрифта</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Shop</caption>
+		<caption lng="ru">Магазин</caption>
+		<option name="shop-item-title-color" type="color">
+			<caption lng="en">Item Title Color</caption>
+			<caption lng="ru">Цвет названия товара</caption>
+		</option>
+		<option name="shop-item-price-color" type="color">
+			<caption lng="en">Item Price Color</caption>
+			<caption lng="ru">Цвет цены товара</caption>
+		</option>
+		<option name="shop-item-old-price-color" type="color">
+			<caption lng="en">Item Old Price Color</caption>
+			<caption lng="ru">Цвет старой цены товара</caption>
+		</option>
+		<option name="shop-item-add-to-links-color" type="color">
+			<caption lng="en">Item Links Color</caption>
+			<caption lng="ru">Цвет ссылок (сравнение)</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Footer</caption>
+		<caption lng="ru">Подвал</caption>
+		<option name="footer-background-color" type="color">
+			<caption lng="en">Background color</caption>
+			<caption lng="ru">Цвет фона</caption>
+		</option>
+	</section>	
+</manifest>

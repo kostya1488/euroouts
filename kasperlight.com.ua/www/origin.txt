@@ -1,0 +1,212 @@
+Uri: https://goodde.ru/
+File Name: c:\Downloaded Web Sites\goodde.ru\index.html
+Content Type: text/html
+
+Uri: https://goodde.ru/video/lazuranna3/bg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\video\lazuranna3\bg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/style.css
+File Name: c:\Downloaded Web Sites\goodde.ru\style.css
+Content Type: text/css
+
+Uri: https://goodde.ru/favicon.ico
+File Name: c:\Downloaded Web Sites\goodde.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://goodde.ru/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\goodde.ru\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://goodde.ru/politika.pdf
+File Name: c:\Downloaded Web Sites\goodde.ru\politika.pdf
+Content Type: application/pdf
+
+Uri: https://goodde.ru/details.html
+File Name: c:\Downloaded Web Sites\goodde.ru\details.html
+Content Type: text/html
+
+Uri: https://goodde.ru/js/jquery.mousewheel.js
+File Name: c:\Downloaded Web Sites\goodde.ru\js\jquery.mousewheel.js
+Content Type: application/javascript
+
+Uri: https://goodde.ru/js/main.js
+File Name: c:\Downloaded Web Sites\goodde.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://goodde.ru/i/retina/icons.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\retina\icons.png
+Content Type: image/png
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Bold.eot
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Bold.eot?
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Bold.woff
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Bold.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Bold.ttf
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Bold-1.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Bold.svg
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Medium.eot
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Medium.eot?
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Medium.woff
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Medium.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Medium.ttf
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Medium-1.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans-Medium.svg
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://goodde.ru/fonts/ConquerorSans.eot
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans.eot?
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://goodde.ru/fonts/ConquerorSans.woff
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans.ttf
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans-1.txt
+Content Type: text/plain
+
+Uri: https://goodde.ru/fonts/ConquerorSans.svg
+File Name: c:\Downloaded Web Sites\goodde.ru\fonts\ConquerorSans.svg
+Content Type: image/svg+xml
+
+Uri: https://goodde.ru/i/bg.overlay.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\bg.overlay.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/icons.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\icons.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/load.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\load.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/mail.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\mail.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/boroda.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\boroda.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/works/florencia/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\florencia\lbg.html
+Content Type: text/html
+
+Uri: https://goodde.ru/i/works/vestum/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\vestum\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/vpnbox/bg.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\vpnbox\bg.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/works/edavsegda/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\edavsegda\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/opart/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\opart\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/isakov24/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\isakov24\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/bbag/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\bbag\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/fpm/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\fpm\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/sherland/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\sherland\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/aromatov/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\aromatov\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/gorteh/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\gorteh\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/automeloman/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\automeloman\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/infoss/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\infoss\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/zavodoy/bg.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\zavodoy\bg.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/works/abacus/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\abacus\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/icar/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\icar\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/kedr/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\kedr\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/tebevezem/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\tebevezem\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/kaznachey/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\kaznachey\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/works/euromarket/lbg.jpg
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\euromarket\lbg.jpeg
+Content Type: image/jpeg
+
+Uri: https://goodde.ru/i/shadow.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\shadow.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/awwwards.png
+File Name: c:\Downloaded Web Sites\goodde.ru\i\awwwards.png
+Content Type: image/png
+
+Uri: https://goodde.ru/i/works/florencia/details.html
+File Name: c:\Downloaded Web Sites\goodde.ru\i\works\florencia\details.html
+Content Type: text/html
+

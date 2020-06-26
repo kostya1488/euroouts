@@ -1,0 +1,14 @@
+<div class="row main-container">
+	<div class="col-xs-12 col-sm-4 col-md-3">
+		<div class="row">
+			<?php
+				// Секция левого блока
+				$this->showSection('leftBlock');
+			?>
+		</div>
+	</div>
+	<?php
+		// Основной контент
+		Core_Page::instance()->execute();
+	?>
+</div>

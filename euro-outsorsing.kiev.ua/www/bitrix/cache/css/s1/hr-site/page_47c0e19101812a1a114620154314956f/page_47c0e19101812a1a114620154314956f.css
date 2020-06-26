@@ -1,0 +1,88 @@
+
+
+/* Start:/bitrix/templates/hr-site/form.css?15254463851104*/
+
+
+.b-podbor-personala__form .b-button-style1 {
+    text-shadow: 0px -1px 0px #d3d3d3;
+    color: black !important;
+    width: 270px;
+    background: url('../../../../../templates/hr-site/images/send.png') 50px no-repeat #fff !important;
+    box-sizing: border-box;
+    text-align: left;
+background-color: #fff !important;
+}
+
+.b-podbor-personala__form__submit__holder {
+    margin-bottom: 10px;
+}
+
+.b-submit-button-style2 {
+    color: #fff !important;
+    text-shadow: none !important;
+    border: 2px solid #fff !important;
+    background: url('../../../../../templates/hr-site/images/phone.png') 25px no-repeat transparent !important;
+    padding: 0 0 0 60px !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    width: 270px !important;
+    box-sizing: border-box !important;
+    text-align: left !important;
+}
+
+.b-submit-button-style2::after {
+    content: ' ';
+    border-bottom: 1px dashed #fff;
+    display: block;
+    margin-top: -13px;
+    margin-bottom: 10px;
+    width: 176px;
+}
+
+.b-podbor-personala__form__wrapper {
+    background-image: url('../../../../../templates/hr-site/images/b-podbor-personala__form.png');
+}
+/* End */
+
+
+/* Start:/bitrix/templates/hr-site/components/bitrix/news.list/b-client-feedback/style.css?1525446385108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/hr-site/components/bitrix/news.list/news_main/style.css?1525446385108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/hr-site/components/bitrix/news.list/articles/style.css?1525446385108*/
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/templates/hr-site/form.css?15254463851104 */
+/* /bitrix/templates/hr-site/components/bitrix/news.list/b-client-feedback/style.css?1525446385108 */
+/* /bitrix/templates/hr-site/components/bitrix/news.list/news_main/style.css?1525446385108 */
+/* /bitrix/templates/hr-site/components/bitrix/news.list/articles/style.css?1525446385108 */

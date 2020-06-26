@@ -1,0 +1,311 @@
+
+
+/* Start:/podbor-personala/order/css/custom.css?15254463886617*/
+.b-application-form {
+	padding: 65px 0px;
+	background-color: #f5f5f5;
+}
+
+.b-application-form * {
+	box-sizing: border-box;
+}
+
+.application-text {
+	color: #1c1c1c;
+	font-size: 16px;
+	font-family: 'Open Sans';
+	font-weight: 600;
+	text-align: center;
+}
+
+.application-main {
+	margin: 65px auto 0px;
+	width: 405px;
+}
+
+.application-form-wrapper label, .application-form-wrapper input, .application-form-wrapper select, .application-form-wrapper textarea {
+	display: block;
+}
+
+.application-form-wrapper label {
+	font-size: 18px;
+	font-family: 'Open Sans';
+	font-weight: 600;
+	color: #1c1c1c;
+	margin-bottom: 10px;
+	margin-top: 35px;
+}
+
+.required-field::after {
+	content: '*';
+	color: #fc502a;
+	padding-left: 2px;
+	font-family: 'Open Sans';
+	font-weight: 600;
+}
+
+.application-form-wrapper input {
+	width: 405px;
+	-webkit-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	-moz-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	border-radius: 5px;
+	border: 0px;
+	height: 40px;
+	font-size: 16px;
+	color: #b2b2bf;
+	font-family: 'Open Sans';
+	padding-left: 20px;
+}
+
+.application-form-wrapper textarea {
+	width: 405px;
+	-webkit-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	-moz-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	border-radius: 5px;
+	border: 0px;
+	font-size: 16px;
+	color: #b2b2bf;
+	font-family: 'Open Sans';
+	padding: 20px;
+	height: 140px;
+}
+
+.application-more .jq-selectbox__select {
+	-webkit-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	-moz-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	border-radius: 5px;
+	border: 0px !important;
+	height: 40px;
+	color: #b2b2bf;
+	font: 16px 'Open Sans' !important;
+	padding-left: 20px;
+	outline: 0;
+	background: #fff !important;
+	padding-top: 10px;
+	width: 405px;
+}
+
+.application-more .jq-radio {
+	outline: 0;
+	background: #fff !important;
+	width: 20px;
+	height: 20px;
+	-webkit-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	-moz-box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	box-shadow: inset 0px 7px 10px -2px rgba(206,206,206,1);
+	border-radius: 50%;
+	border: 0px !important;
+	margin-bottom: 35px;
+	vertical-align: top;
+	margin-right: 12px;
+}
+
+.application-more .jq-radio ~ span {
+	display: inline-block;
+	font-size: 15px;
+	color: #1c1c1c;
+	font-family: 'Open Sans';
+}
+
+.application-more .jq-radio.checked .jq-radio__div {
+	outline: 0;
+	background: #fc502a !important;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	border: 0px;
+	box-shadow: none !important;
+	margin: 5px 0 0 5px;
+}
+
+.jq-selectbox .placeholder {
+	visibility: hidden;
+}
+
+.application-form-wrapper .jq-selectbox__trigger {
+	background: url(../../../../../../podbor-personala/order/img/select.png) right no-repeat;
+	width: 40px;
+	height: 40px;
+}
+
+.jq-selectbox__trigger-arrow {
+	display: none;
+}
+
+.application-form-wrapper input:focus, .application-form-wrapper select:focus, .application-form-wrapper textarea:focus {
+	outline: 0;
+}
+
+.application-form-wrapper input[type="submit"] {
+	cursor: pointer;
+}
+
+.application-form-wrapper p {
+	margin-top: 25px;
+}
+
+.required-hint {
+	font-size: 14px;
+	color: #1c1c1c;
+	font-family: 'Open Sans';
+	margin-top: 25px;
+	margin-bottom: 35px;
+}
+
+.application-buttons input {
+	color: rgb( 255, 255, 255 );
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 5px;
+	padding: 0px 0px 0px 40px;
+	height: 54px;
+	width: 405px;
+	background-color: #ff4b1e;
+	background-image: url(../../../../../../podbor-personala/order/img/send.png);
+	background-position: 120px;
+	background-repeat: no-repeat;
+	text-shadow: 0px -1px 0px rgba(199, 199, 199, 0.92);
+	-webkit-box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+	-moz-box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+	box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+}
+
+.application-buttons a {
+	display: block;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px solid #ff4b1e;
+	height: 54px;
+	width: 405px;
+	text-align: center;
+	padding-top: 17px;
+	color: #1c1c1c;
+	font-family: 'Open Sans';
+	font-weight: 600;
+	font-size: 18px;
+	text-decoration: none;
+	background: url(../../../../../../podbor-personala/order/img/more-arrow.png) 50px no-repeat;
+	padding-left: 15px;
+}
+
+.application-buttons a::after {
+	content: ' ';
+	border-bottom: 1px dashed #ff4b1e;
+	display: block;
+	width: 266px;
+	margin-left: 62px;
+}
+
+.more-wrapper::after, .more-wrapper::before {
+	display: table;
+	content: '';
+}
+
+.more-wrapper::after {
+	clear: both;
+}
+
+.application-more {
+	max-width: 875px;
+	margin: 0 auto;
+}
+
+.more-wrapper > div {
+	float: left;
+}
+
+.more-wrapper > div:first-child {
+	margin-right: 55px;
+}
+
+.application-age::after, .application-age::before {
+	display: table;
+	content: '';
+}
+
+.application-age::after {
+	clear: both;
+}
+
+.application-age {
+	font-size: 15px;
+	color: #1c1c1c;
+	font-family: 'Open Sans';
+}
+
+.application-age input {
+	display: inline-block;
+	width: 165px;
+	margin-left: 9px;
+	margin-right: 9px;
+}
+
+.application-age input:last-child {
+	margin-right: 0px;
+}
+
+.additional-submit {
+	clear: both;
+	margin: 0px auto;
+    width: 405px;
+    float: none !important;
+    margin-top: 35px;
+}
+
+.additional-submit input {
+	color: rgb( 255, 255, 255 );
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 0px 0px 0px 40px;
+    height: 54px;
+    width: 405px;
+    background-color: #ff4b1e;
+    background-image: url(../../../../../../podbor-personala/order/img/send.png);
+    background-position: 120px;
+    background-repeat: no-repeat;
+    text-shadow: 0px -1px 0px rgba(199, 199, 199, 0.92);
+    -webkit-box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+    -moz-box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+    box-shadow: inset 0px -6px 0px -2px rgba(200,66,36,1),0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+    cursor: pointer;
+}
+
+.application-more .jq-radio#woman-styler {
+	margin-bottom: 0px;
+}
+
+.application-more {
+	display: none;
+}
+
+.application-form-wrapper ~ .application-text {
+    margin-top: 65px;
+}
+
+.thank-you-text {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	color: #1c1c1c;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 65px;
+}
+
+.thank-you {
+	width: 52px;
+	height: 52px;
+	margin: 25px auto 80px;
+	background: url(../../../../../../podbor-personala/order/img/thank-you.png) 0 0 no-repeat;
+}
+/* End */
+/* /podbor-personala/order/css/custom.css?15254463886617 */

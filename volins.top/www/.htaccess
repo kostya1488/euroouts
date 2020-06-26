@@ -1,0 +1,10 @@
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php
+ErrorDocument 500 /404.php
+Options -Indexes
+
+<FilesMatch "\.txt$">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>
+

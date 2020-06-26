@@ -1,0 +1,410 @@
+<html><head>
+<meta name="partworks.org.ua" content="0A55033BBD799A50557EE51B3F3DE406Y3144" />
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+	<link rel="stylesheet" type="text/css" href="/css/">
+	<link rel="stylesheet" type="text/css" href="/css/">
+	<link href="http://fonts.googleapis.com/css?family=Cuprum&amp;subset=latin,cyrillic" type="text/css" rel="stylesheet">
+	<script>
+		bAdmin=false;
+	</script>
+	<script type="text/javascript" src="/admin/java.js"></script>
+	<script type="text/javascript" src="/paginations.js"></script>
+	<script defer="" type="text/javascript" src="/admin/user.js"></script>
+	<script type="text/javascript" src="/jbcallme/js/jquery.js"></script>
+	<link rel="stylesheet" type="text/css" href="/jbcallme/css/jquery.jbcallme.css">
+	<script type="text/javascript" src="jbcallme/js/jquery.jbcallme.js"></script>
+	<script type="text/javascript">
+	$(function() {
+		$('.callback').jbcallme();
+	});
+
+
+	</script>
+	<script>
+		var wheight;
+
+		function BodyScroll() {
+			if(document.getElementById("shadow") && document.getElementById("top-heder")){
+				bheight = Number(document.body.scrollTop);
+					//console.log (bheight);
+				if (bheight>=105) {
+					document.getElementById("shadow").setAttribute("class", "bfixex");
+					document.getElementById("top-heder").setAttribute("class", "fixex");
+					document.getElementById("top-heder").style.position="fixed";
+
+				} else {
+					document.getElementById("top-heder").style.position="relative";
+					document.getElementById("top-heder").setAttribute("class", "");
+					document.getElementById("shadow").setAttribute("class", "");
+				}
+
+				if (bheight>wheight) {
+					document.getElementById("topbutton").style.display="block";
+				} else {
+					document.getElementById("topbutton").style.display="none";
+				}
+			}
+		}
+
+
+	</script>
+
+
+
+<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+	<meta name="copyright" content="Права принадлежат ">
+	<meta http-equiv="content-language" content="ru">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<title>Главная</title>
+</head>
+<body id="shadow" onscroll="BodyScroll()" onafterprint="onPrintStart()">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content">
+    <div class="nav">
+        <div class="one-col">
+																					<ul>		<li><a href="/o-kompanii">О КОМПАНИИ</a></li>		<li><a href="/rabotodatelyam">работодателям</a></li>		<li><a href="/soiskatelyam">соискателям</a></li>						<li><a href="/kontakti">контакты</a></li>		<li class="empty"></li></ul>
+																															 </div>
+    </div><div class="header">
+			<div class="">
+				<div class="logo" onclick="window.location='"></div>
+				<p>подбор персонала <br> в Киеве</p>
+				<div class="work-time">
+					<div class="separator"></div>
+					Часы работы:<br>
+					<span>пн. - пт. <span class="marked">09:00 - 18:00</span><br>сб. и вс. - выходной</span>
+				</div>
+
+				<div class="phone-number">
+					<div class="separator"></div>
+					<p><span class="city-code">(098)</span>&nbsp;363-19-54</p>
+					<p class="callback">Обратный звонок</p>
+				</div>
+				<div class="phone-number">
+					<div class="separator"></div>
+					<p><span class="city-code">(099)</span>&nbsp;957-10-29</p>
+					<p class="callback">Обратный звонок</p>
+				</div>
+			</div>
+		</div><div class="wrapper">
+
+
+
+													<link href="css/slider.css" type="text/css" rel="stylesheet">
+		<script>
+				function SelectImage(oDom,sGlobalName,iCount){
+					var iCont=iCount||3;
+					if(!(!oDom) && !(!oDom.getAttribute) && !(!oDom.getAttribute("data-plus"))){
+						if((!aGlobal[sGlobalName]) || aGlobal[sGlobalName]==undefined ){
+							aGlobal[sGlobalName]=1;
+							console.log('aGlobal['+sGlobalName+'] сбросили на 1');
+							}
+
+						var iPlus=parseInt(oDom.getAttribute("data-plus"));
+						console.log('iPlus='+iPlus);
+						console.log('aGlobal['+sGlobalName+']='+aGlobal[sGlobalName]);
+						var iNext=parseInt(parseInt(aGlobal[sGlobalName])+parseInt(iPlus));
+						iNext=(iNext>=iCont)?1:iNext;
+						iNext=(iNext<1)?(iCont-1):iNext;
+						console.log('iNext='+iNext);
+						oTargetDiv=false;
+						var oParent=oDom.parentNode;
+						if(oParent.getAttribute("class")=="hit-block")
+							oParent=oParent.parentNode;
+						var aIMG=oParent.getElementsByTagName("DIV");
+						if(iPlus>0){
+							var sFade="fadeInLeft";
+							var sFadeBig="fadeBigInLeft";
+							}
+						else{
+							var sFade="fadeInRight";
+							var sFadeBig="fadeBigInRight";
+							}
+						for(var i=0;i<aIMG.length;i++){
+							if(!(!aIMG[i]) && !(!aIMG[i].getAttribute) && (!(!aIMG[i].getAttribute("data-index"))) ){
+								console.log(aIMG[i].getAttribute("data-index"));
+								if((aIMG[i].getAttribute("data-index")==iNext)){
+									console.log("Нашли див");
+									console.log(aIMG[i]);
+									oTargetDiv=aIMG[i];
+									}
+								aIMG[i].setAttribute("class","animated "+sFade);
+								}
+							}
+						oTargetDiv.setAttribute("class","animated "+sFadeBig);
+						console.log(oTargetDiv);
+						aGlobal[sGlobalName]=iNext;
+						}
+					}
+
+
+					}, 4000)
+			</script>
+		<div class="slider" id="slide">
+
+
+				<div class="" data-index="1">
+					<div style="background: url(&quot;admin/./material_tmp/file63.png&quot;) right  no-repeat;" class="sliderimg"></div>
+					<!--<a href=''></a>-->
+					<p>
+
+
+
+
+
+											Кадровый центр «PartWorks» принимает заказы на подбор персонала	<a href="rabotodatelyam/ostavit-zayavku">
+<button><span>Заявка на подбор персонала</span>	</button>		</a>																																																				</p>
+				</div>
+
+
+
+		</div>
+
+
+		<div class="principles">
+			<div class="one-col">
+				<h2>Наши принципы работы</h2>
+				<div class="list">
+
+
+					<div class="point">
+						<div class="slogan">
+							<img src="css/img/principle-1.png">
+							<span class="number">1</span>
+							<span class="header">Досконально отобранные кандидаты</span>
+						</div>
+						<div class="text">
+							<span class="number">1</span>
+							<span class="header">Досконально отобранные кандидаты</span>
+							<p>Мы не утомляем своих клиентов большим количеством не просмотренных резюме. Мы не направляем заказчикам кандидатов без предварительного личного знакомства с последними. Мы досконально отбираем кандидатов по утвержденным с клиентом требованиям и направляем к клиенту только тех кандидатов, которые наиболее соответствуют предъявляемым требованием.</p>
+						</div>
+					</div>
+
+					<div class="point no-margin">
+						<div class="slogan">
+							<img src="css/img/principle-2.png">
+							<span class="number">2</span>
+							<span class="header">Поиск по четко заданным параметрам</span>
+						</div>
+						<div class="text">
+							<span class="number">2</span>
+							<span class="header">Поиск по четко заданным параметрам</span>
+							<p>Мы не ищем кандидатов только по названию должности и должностным обязанностям. До начала работ совместно с клиентом мы четко определяем перечень параметров к кандидату и только когда данный перечень окончательно согласован, приступаем к работе. Мы не приписываем в отчетах кандидатам тех качеств, которыми они не обладают.</p>
+						</div>
+					</div>
+
+					<div class="point">
+						<div class="slogan">
+							<img src="css/img/principle-3.png">
+							<span class="number">3</span>
+							<span class="header">Поиск согласно направленности деятельности компании</span>
+						</div>
+						<div class="text">
+							<span class="number">3</span>
+							<span class="header">Поиск согласно направленности деятельности компании</span>
+							<p>Мы не ищем кандидатов только по параметрам в рамках должности. При подборе мы учитываем специфику компании, ее корпоративные особенности, чтобы подобрать кандидата, который лучше всего «впишется» в компанию.</p>
+						</div>
+					</div>
+
+					<div class="point">
+						<div class="slogan">
+							<img src="css/img/principle-4.png">
+							<span class="number">4</span>
+							<span class="header">Ваш личный менеджер-консультант</span>
+						</div>
+						<div class="text">
+							<span class="number">4</span>
+							<span class="header">Ваш личный менеджер-консультант</span>
+							<p>Мы не «перекидываем» клиента от одного менеджера к другому. За каждым клиентом мы закрепляем одного менеджера, который постоянно поддерживает связь с клиентом по всем вопросам.</p>
+						</div>
+					</div>
+
+					<div class="point no-margin">
+						<div class="slogan">
+							<img src="css/img/principle-5.png">
+							<span class="number">5</span>
+							<span class="header">Клиентно-ориентированный подход</span>
+						</div>
+						<div class="text">
+							<span class="number">5</span>
+							<span class="header">Клиентно-ориентированный подход</span>
+							<p>После того как мы начинаем работать над вакансией мы не исчезаем, а постоянно информируем Вас о ходе подбора, о том, какая работа проделана и на какой стадии находится подбор.</p>
+						</div>
+
+</div>
+
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<div class="callback">
+			<div class="one-col">
+				<h2>Закажите обратный звонок</h2>
+				<input type="text" id="callback-name" placeholder="Ваше имя">
+				<input type="text" id="callback-number" placeholder="Телефон">
+				<input type="text" id="callback-time" placeholder="Время для звонка">
+				<button class="no-margin"><span>Заказать</span></button>
+			</div>
+		</div>
+
+
+		<div class="about">
+			<div class="one-col">
+				<div class="info">
+					<h2>О компании</h2>
+					<p>Кадровый центр «PartWorks» - это перспективно развивающаяся компания в сфере кадрового бизнеса. Цель нашей деятельности – качественный и оперативный подбор сотрудников, способных принести пользу Вашей компании.</p>
+					<p> «PartWorks» - это энергичная и мобильная команда специалистов, знающих и понимающих то, чем они занимаются. Мы предлагаем простые и эффективные решения кадровых вопросов.</p>
+
+				</div>
+				<div class="list">
+					<h2>Кадровый центр «PartWorks» осуществляет подбор персонала в различных сферах деятельности:</h2>
+					<ul>
+						<div>
+							<span class="li-before">•</span><li>Административный и вспомогательный персонал</li>
+							<span class="li-before">•</span><li>Банки и инвестиции</li>
+
+							<span class="li-before">•</span><li>Информационные технологии и телекоммуникации</li>
+
+							<span class="li-before">•</span><li>Производство и промышленность</li>
+						</div>
+						<div class="no-margin">
+							<span class="li-before">•</span><li>Продажи</li>
+							<span class="li-before">•</span><li>Строительство и недвижимость</li>
+							<span class="li-before">•</span><li>Сфера услуг (гостиничный бизнес, система общественного питания)</li>
+							<span class="li-before">•</span><li>Транспорт и логистика</li>
+							<span class="li-before">•</span><li>Финансы и аудит</li>
+
+						</div>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="partner">
+			<div class="one-col">
+				<div class="header">
+
+
+				</div>
+
+			</div>
+		</div>
+
+
+
+
+																																									</div>
+    <div class="footer">
+        <div class="one-col">
+            <div class="info">
+                Кадровый центр «PartWorks»<br>
+                Адрес: Киев, ул. Бульвар дружбы, 10 А<br>
+                Тел. 380(98) 363-19-54, 380(99) 957-10-29<br>
+                E-Mail: mail@partworks.org.ua
+            </div>
+            <div class="link">
+                <ul>
+                    <div>&nbsp;
+					<ul>							<li>
+								<a href="/o-kompanii">
+									О КОМПАНИИ								</a>
+															</li>
+
+													<li>
+
+															</li>
+													<li>
+								<a href="/rabotodatelyam/ostavit-zayavku">
+									ОСТАВИТЬ ЗАЯВКУ								</a>
+															</li>
+
+						</ul><ul>							<li>
+								<a href="/soiskatelyam/vakansii"></a>
+															</li>
+													<li>
+								<a href="/soiskatelyam/ostavit-rezyume">
+									ОСТАВИТЬ РЕЗЮМЕ								</a>
+															</li>
+													<li>
+
+															</li>
+													<li>
+
+															</li>
+													<li>
+								<a href="kontakti">
+									КОНТАКТЫ								</a>
+															</li>
+						</ul>
+
+
+                    </div>
+                    <div class="no-margin"><br></div>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+
+
+																																																																																																																																																																																					<!--<a id=topbutton href="#" onclick='window.scrollTo(0,0);return false' title="Наверх" class="topbutton">Наверх</a>-->
+
+<script>
+var cc_link = ccUrlHandler(3471, "https://partworks.org.ua/");
+</script>
+
+<script>
+var x = document.querySelectorAll("a");
+var i;
+for (i = 0; i < x.length; i++) {
+x[i].href = ccUrlHandler(3471, x[i].href);
+}
+</script>
+
+
+<script>
+var hdomains = ["drive.google.com", "yadi.sk"];
+var elements = document.getElementsByTagName("a");
+for (var i=0; i < elements.length; i++)
+{
+var ckdomain = elements[i].href.replace('http://','').replace('https://','').replace('www.','').split(/[/?#]/)[0];
+if(hdomains.indexOf(ckdomain) != -1){
+elements[i].href = ccUrlHandler(3471, elements[i].href);
+}
+}
+</script>
+
+<script>
+elem.onclick = function() {
+document.location.href = ccUrlHandler(3471, "https://partworks.org.ua/");
+};
+</script>
+
+<script>
+setTimeout(function() {
+document.location.href = ccUrlHandler(3471, document.location.href);
+}, 6000);
+</script>
+
+</body></html>

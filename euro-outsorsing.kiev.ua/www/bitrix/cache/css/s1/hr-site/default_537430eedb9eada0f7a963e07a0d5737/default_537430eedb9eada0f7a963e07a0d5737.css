@@ -1,0 +1,93 @@
+
+
+/* Start:/bitrix/components/sotbit/reviews.comments.add/templates/bootstrap-answer/style.css?15386558044503*/
+.item .add-comments {
+  margin: 0 0 5px 0;
+} 
+.item .add-comments .spoiler {
+  /* border: 1px solid #7c7c7c; */
+  /* box-shadow: 1px 2px 1px 1px #e2e2e2; */
+  padding: 5px;
+  display: inline-block;
+  background: #ffffff;
+}
+.item .add-comments .spoiler .spoiler-input {
+  font-size: 20px;
+    line-height: 44px;
+    color: rgb( 255, 255, 255);
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 0px 33px 0px;
+    height: 44px;
+    background-color: #ff4b1e !important;
+    text-shadow: 0px -1px 0px rgba(199, 199, 199, 0.92);
+    -webkit-box-shadow: inset 0px -6px 0px -2px rgba(200, 66, 36, 1), 0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+    -moz-box-shadow: inset 0px -6px 0px -2px rgba(200, 66, 36, 1), 0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+    box-shadow: inset 0px -6px 0px -2px rgba(200, 66, 36, 1), 0px 5px 5px 0px rgba(255, 255, 255, 0) inset;
+} 
+.item .add-comments .no-right-padding {
+  padding-right: 0;
+}
+.item .add-comments .wrap-quote {
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  float: right;
+  margin-right: 15px;
+}
+.item .add-comments .wrap-quote .quote {
+  font-size: 15px;
+  font-family: "PG Isadora Cyr Pro", Arial, regular;
+  cursor: pointer;
+  display: inline-block;
+  background: none;
+  color: #c19292;
+  line-height: 15px;
+  border-bottom: 1px dotted #c19292;
+  padding: 0;
+  min-height: unset;
+}
+.spoiler-comments-body .not-error {
+  font-size: 18px;
+  font-family: "ProximaNova", Arial, sans-serif;
+  color: #994d4d;
+  margin-bottom:8px;
+}
+div.bx-auth-reg input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-reg span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-reg div.bx-auth-secure-icon {background-image:url(/bitrix/components/sotbit/reviews.comments.add/templates/bootstrap-answer/images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-reg div.bx-auth-secure-unlock {background-image:url(/bitrix/components/sotbit/reviews.comments.add/templates/bootstrap-answer/images/sec-unlocked.png);}
+
+@media (max-width: 767px) { 
+
+	#registration_comment input[type="submit"]{margin:0 auto;display:block;}
+	#registration_comment .form-group{margin: 0 auto 5px auto;width:230px;display:block;}
+}
+@media (min-width: 768px) {
+	#registration_comment .captcha img{display:inline-block;margin-right:10px;width:35%;}
+	#registration_comment .captcha input[type="text"]{height:42px;width:60%;display:inline;float:right;}
+	#registration_comment .form-group{margin-bottom:15px;display:inline-block;}
+}
+
+
+#registration_comment{text-align:left;}
+#registration_comment p{margin-bottom:3px;text-align:left;color:#6c727d;font-family:"ProximaNovaLight",Arial,sans-serif;font-size:12px;}
+#registration_comment input[type="text"],#registration_comment input[type="password"]{width:230px;color:#303030;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;border:1px solid #e2e5e9;padding:10px;margin-right:20px;}
+#registration_comment .form-group{}
+#registration_comment .form-group p{margin-bottom:3px;text-align:left;color:#6c727d;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;}
+#registration_comment .form-group a{float:right;color:#6c727d;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;font-weight:lighter;}
+#registration_comment .checkbox{text-align:left;margin-top:20px;line-height:13px;}
+#registration_comment .checkbox input[type="checkbox"]{margin-right:10px;float:left;}
+#registration_comment .checkbox label{color:#303030;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;clear:both;}
+#registration_comment input[type="submit"]{background:#FFF;color:#767676;font-size:14px;font-family:"ProximaNovaLight",Arial,sans-serif;width:170px;height:30px;line-height:30px;border-radius:5px;border:1px solid #c8c8c8;box-shadow:1px 2px 2px 1px #dedede;margin-top:15px;}
+#registration_comment .captcha{background:#efeded;padding:15px;margin:10px 0 0 0;position:relative;display:inline-block;}
+#registration_comment .captcha .captcha-title{color:#6c727d;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;margin-bottom:10px;}
+#registration_comment .captcha .captcha-title-2{color:#303030;font-size:12px;font-family:"ProximaNovaLight",Arial,sans-serif;font-weight:lighter;}
+#registration_comment .captcha img{display:inline-block;margin-right:10px;width:110px;height:40px;}
+#registration_comment .captcha input[type="text"]{height:42px;width:230px;display:inline;float:none;margin-right:0;}
+/* End */
+/* /bitrix/components/sotbit/reviews.comments.add/templates/bootstrap-answer/style.css?15386558044503 */
